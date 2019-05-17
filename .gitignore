@@ -2,4 +2,4 @@
 .vs/*
 .idea/*
 node_modules/*
-graphql-reach-event-booking/node_modules/*
+graphql-react-event-booking/node_modules/*
